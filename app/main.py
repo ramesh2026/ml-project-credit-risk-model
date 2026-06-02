@@ -1,4 +1,4 @@
-import streamlit as st
+ import streamlit as st
 from prediction_helper import predict  # Ensure this is correctly linked to your prediction_helper.py
 
 # Set the page configuration and title
