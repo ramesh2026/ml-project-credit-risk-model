@@ -1,5 +1,5 @@
 import streamlit as st
-from app.prediction_helper import predict  # Ensure this is correctly linked to your prediction_helper.py
+from main.prediction_helper import predict  # Ensure this is correctly linked to your prediction_helper.py
 
 # Set the page configuration and title
 st.set_page_config(page_title="Lauki Finance: Credit Risk Modelling", page_icon="📊")
